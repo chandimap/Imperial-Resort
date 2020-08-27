@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/imperial-resort/static/css/main.18fd0c07.chunk.css",
-    "main.js": "/imperial-resort/static/js/main.b2cef2ec.chunk.js",
-    "main.js.map": "/imperial-resort/static/js/main.b2cef2ec.chunk.js.map",
+    "main.js": "/imperial-resort/static/js/main.98f160a5.chunk.js",
+    "main.js.map": "/imperial-resort/static/js/main.98f160a5.chunk.js.map",
     "runtime-main.js": "/imperial-resort/static/js/runtime-main.3734af31.js",
     "runtime-main.js.map": "/imperial-resort/static/js/runtime-main.3734af31.js.map",
     "static/js/2.eacfad56.chunk.js": "/imperial-resort/static/js/2.eacfad56.chunk.js",
     "static/js/2.eacfad56.chunk.js.map": "/imperial-resort/static/js/2.eacfad56.chunk.js.map",
     "index.html": "/imperial-resort/index.html",
-    "precache-manifest.3d3d9ac94d3c2cb8e861a01304f8ac68.js": "/imperial-resort/precache-manifest.3d3d9ac94d3c2cb8e861a01304f8ac68.js",
+    "precache-manifest.7b1a6dc1830161414d0efea0ce2e5866.js": "/imperial-resort/precache-manifest.7b1a6dc1830161414d0efea0ce2e5866.js",
     "service-worker.js": "/imperial-resort/service-worker.js",
     "static/css/main.18fd0c07.chunk.css.map": "/imperial-resort/static/css/main.18fd0c07.chunk.css.map",
     "static/js/2.eacfad56.chunk.js.LICENSE.txt": "/imperial-resort/static/js/2.eacfad56.chunk.js.LICENSE.txt",
@@ -71,6 +71,6 @@
     "static/js/runtime-main.3734af31.js",
     "static/js/2.eacfad56.chunk.js",
     "static/css/main.18fd0c07.chunk.css",
-    "static/js/main.b2cef2ec.chunk.js"
+    "static/js/main.98f160a5.chunk.js"
   ]
 }

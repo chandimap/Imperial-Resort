@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec6082720804904c39ba3ff7cc64dc20",
+    "revision": "0fcc0e2ba38e35da39d2b6c3a7aff966",
     "url": "/imperial-resort/index.html"
   },
   {
-    "revision": "96ffaa4773379e056ad2",
+    "revision": "9cd6b625c6ea10509c56",
     "url": "/imperial-resort/static/css/main.18fd0c07.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imperial-resort/static/js/2.eacfad56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96ffaa4773379e056ad2",
-    "url": "/imperial-resort/static/js/main.b2cef2ec.chunk.js"
+    "revision": "9cd6b625c6ea10509c56",
+    "url": "/imperial-resort/static/js/main.98f160a5.chunk.js"
   },
   {
     "revision": "1e361092a267638db20d",
