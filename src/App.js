@@ -16,7 +16,8 @@ function App() {
     <>
     <NavBar/>
     <Switch>
-  <Route exact path='/' component={Home}/> 
+  <Route exact path='/' component={Home}/>
+  <Route exact path='/imperial-resort' component={Home}/>  
   <Route exact path='/rooms/' component={RoomsContainer }/> 
   <Route exact path='/rooms/:id' component={SingleRoom}/> 
   <Route   component={ErrorPage }/> 
