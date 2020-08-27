@@ -15,7 +15,7 @@ function  RoomsContainer({context}){
                     
     return(
         <>
-             <Title title='search room'/>
+             <Title title='Search For A Room'/>
             <div className='container'>
                 <RoomsFilter rooms={rooms}/>
                 <RoomsList rooms={sortedRooms}/>

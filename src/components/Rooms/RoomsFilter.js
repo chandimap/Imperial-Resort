@@ -112,7 +112,7 @@ types = types.map((item, index )=>{
                   <div className="form-group btn">
 
                     {props.history.location.pathname !=='/rooms'&&  <Link to='/rooms'>
-                <button type="button" className="btn__home-filter">search</button>
+                <button type="button" className="btn__home-filter"><strong>Search</strong></button>
                   </Link>}
                   </div>
                       {/*  breakfast and pets*/}
